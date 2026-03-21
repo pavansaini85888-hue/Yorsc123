@@ -3,8 +3,8 @@
         "device_id": "cb6606eac29498e1",
         "username": "@ReXxPredictor",
         "password": "PREDICTOR",
-        "expirydate": "22-03-2026",
-        "Allowoffline": false
+        "expirydate": "29-05-2026",
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
