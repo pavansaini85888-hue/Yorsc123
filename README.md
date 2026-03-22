@@ -1,7 +1,7 @@
     {
         "device_id": "be1195b65215cf43",
         "key": "key12345",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
