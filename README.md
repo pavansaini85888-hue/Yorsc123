@@ -16,7 +16,6 @@
         "key": "first143",
         "expirydate": "22-03-2026",
         "Allowoffline": false
-    }
   },
     {
         "device_id": "be1195b65215cf43",
