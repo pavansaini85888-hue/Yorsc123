@@ -17,4 +17,11 @@
         "expirydate": "22-03-2026",
         "Allowoffline": false
     }
+  },
+    {
+        "device_id": "be1195b65215cf43",
+        "key": "ServerhighAPI",
+        "expirydate": "25-03-2026",
+        "Allowoffline": false
+    }
 ]
