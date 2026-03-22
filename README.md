@@ -20,3 +20,10 @@
 
   [
   
+    {
+        "device_id": "be1195b65215cf43",
+        "key": "first67890",
+        "expirydate": "25-03-2026",
+        "Allowoffline": false
+    }
+]
